@@ -1,2 +1,3 @@
 # manning-liveproject
-Manning Live Projects
+
+[Manning Live Projects](https://liveproject.manning.com/)
